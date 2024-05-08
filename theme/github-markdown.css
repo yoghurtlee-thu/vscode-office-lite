@@ -1,5 +1,5 @@
 *{
-  font-family: "manrope3","Consolas ligaturized", "Segoe UI","Microsoft YaHei",-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "Bookerly", "LXGW WenKai Lite", "manrope3","Consolas ligaturized", "Segoe UI","Microsoft YaHei",-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
   font-size: 16px;
 }
 
@@ -330,14 +330,14 @@ body { background: white; } .vscode-body { box-sizing: border-box; min-width: 20
 }
 
 .vscode-body code {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "FiraCode Nerd Font", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
 }
 
 .vscode-body pre {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "FiraCode Nerd Font", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
 }
 
