@@ -6,14 +6,14 @@ on:
     branches: [ main ]
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
-        node-version: 16.x
+        node-version: 18.x
     - run: npm i
     - run: |
-        echo ">>> Start compile vscode-office."
+        echo ">>> Start compile vscode-office-lite."
         npm run build
-        echo ">>> Compile vscode-office sucess!"
+        echo ">>> Compile vscode-office-lite sucess!"
